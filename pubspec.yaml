@@ -1,6 +1,6 @@
 name: rows_lint
 description: Lint rules for dart used by projects @ Rows
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/rows/rows_lint
 issue_tracker: https://github.com/rows/rows_lint/issues
 homepage: https://github.com/rows/rows_lint

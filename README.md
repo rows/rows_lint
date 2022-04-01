@@ -39,5 +39,3 @@ dev_dependencies:
 ```yaml
 include: package:rows_lint/analysis_options.yaml
 ```
-
-Consider using adding [dart-code-metrics](https://github.com/wrike/dart-code-metrics). The default config for that plugin is included here as well.
